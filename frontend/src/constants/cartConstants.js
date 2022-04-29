@@ -1,0 +1,3 @@
+export const  ADDTO_CART = "ADDTO_CART"
+export const REMOVE_ITEM_CART = 'REMOVE_ITEM_CART'
+export const SAVE_SHIPPING_INFO = 'SAVE_SHIPPING_INFO'
