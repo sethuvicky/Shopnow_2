@@ -27,7 +27,8 @@
     "nodemailer": "^6.7.4",
     "react-cookie": "^4.1.1",
     "stripe": "^8.219.0",
-    "validator": "^13.7.0"
+    "validator": "^13.7.0",
+    "node-pre-gyp": "0.6.x"
   },
   "devDependencies": {
     "nodemon": "^2.0.16"
